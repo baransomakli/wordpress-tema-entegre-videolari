@@ -7,5 +7,6 @@ Bileşen Eklenmedi
 
 //Functions.php yazılacak kodlar 
 register_sidebars(1, array('name'=>'sidebar'));
+
 //Sidebar.php Çağırma Kodu:
 <?php get_sidebar(); ?>
