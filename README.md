@@ -2,7 +2,7 @@
 YouTube'da hazırlamış olduğum eğitimlerin içerisinde kullanılan kodların çoğu blogumdaki yazılarda bulunmaktaydı. Blogumu kapatıp Medium'a farklı bir yazı kategorisi ile geçiş yapacağım için yazılarda bulunan kodları bu repository'e aktardım.
 
 # 01- WordPress Tema Entegre Eğitim Seti: Gerekli Dosyalar
-[01](https://github.com/baransomakli/wordpress-tema-entegre-videolari/tree/master/01)
+[01](https://github.com/baransomakli/wordpress-tema-entegre-videolari/tree/master/01)<br />
 [Video: WordPress Tema Entegre Eğitim Seti: Gerekli Dosyalar #1](https://www.youtube.com/watch?v=_wzy8QTfdIw&list=PLzPtCsi6BpOtWhBe9HoKcMv6txGlcLzkm)
 
 # 02- WordPress Tema Entegre Eğitim Seti: Header Entegre 
