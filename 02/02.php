@@ -1,3 +1,5 @@
+<?php 
+
 // Header Çağırma:
 <?php get_header(); ?>
 // Footer Çağırma:
@@ -21,3 +23,6 @@ add_theme_support('menus');
 register_nav_menus(array(
  'menu' => 'Header Menü'
 ));
+
+
+?>
