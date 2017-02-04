@@ -1,0 +1,25 @@
+/* Sayfalama Kısmı CSS Kodları */
+.sayfalama{
+ width: 250px;
+ margin:0px auto;
+ margin-bottom: 20px;
+}
+.wp-pagenavi{
+ clear: both;
+ text-align: center;
+ margin-bottom: 20px;
+}
+.wp-pagenavi a, .wp-pagenavi span{
+ background: #f07929;
+ margin-right: 10px;
+ width: 22px;
+ height: 22px;
+ text-align: center;
+ line-height: 22px;
+ color: #fff;
+ float: left;
+}
+.wp-pagenavi a:hover{
+ background: #393939;
+ color: #fff;
+}
